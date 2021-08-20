@@ -1,10 +1,10 @@
 # Provakil_Weather_Dashboard_Assignment
 Created with CodeSandbox
-https://d3dyfaf3iutrxo.cloudfront.net/general/upload/206e51c6f4824b1eabd1131a3dc5963b-programming-challenge-ui.pdf
+### https://d3dyfaf3iutrxo.cloudfront.net/general/upload/206e51c6f4824b1eabd1131a3dc5963b-programming-challenge-ui.pdf
 
-Programming Challenge
-Frontend
-General Instructions
+## Programming Challenge
+       Frontend
+#### General Instructions
 ● Use either Vue JS or React JS as your javascript framework. Brownie points if you
 choose Vue Js.
 ● Do not use CSS frameworks or libraries such as Bootstrap, Tailwind, Material UI etc.
@@ -20,7 +20,8 @@ Evaluation Criteria
 ● Readability and efficiency of code
 ● Should handle edge cases
 ● Maintainability
-Challenge
+
+# Challenge
 The problem statement is to build a Weather Dashboard.
 Minimum Requirements
 1. Use of OpenWeatherMap API to fetch weather details. (You’ll need to sign-up with
